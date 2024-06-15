@@ -1,43 +1,49 @@
 
-
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f8f9fa;
+    background-color: #f0f8ff; /* Azzurro chiaro */
+    color: #333;
+}
+
+.navbar {
+    background-color: #007bff; /* Blu */
+}
+
+.navbar .nav-link {
+    color: #fff;
+}
+
+.navbar .nav-link:hover {
+    color: #ffdd57; /* Giallo */
+}
+
+.jumbotron {
+    background: linear-gradient(45deg, #ff6b6b, #ffdd57); /* Gradiente rosa a giallo */
+    color: white;
+    padding: 2rem 1rem;
+    border-radius: 10px;
+}
+
+.container {
+    margin-top: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #343a40;
+    color: #007bff; /* Blu */
 }
 
 p {
-    color: #6c757d;
+    color: #555;
 }
-<div class="jumbotron">
-    <h1 class="display-4">Benvenuto al mio sito!</h1>
-    <p class="lead">Questo è un semplice sito web per mostrare come creare una barra di navigazione e abbellire il sito con Bootstrap.</p>
-    <hr class="my-4">
-    <p>Usa le classi di Bootstrap per abbellire il tuo sito facilmente.</p>
-    <a class="btn btn-primary btn-lg" href="#" role="button">Scopri di più</a>
-</div>
-<div class="container">
-    <div class="row">
-        <div class="col-md-8">
-            <h2>Sezione principale</h2>
-            <p>Contenuto della sezione principale.</p>
-        </div>
-        <div class="col-md-4">
-            <h2>Sezione laterale</h2>
-            <p>Contenuto della sezione laterale.</p>
-        </div>
-    </div>
-</div>
-<footer class="footer mt-auto py-3 bg-dark text-white">
-    <div class="container">
-        <span class="text-muted">&copy; 2024 Il tuo Nome. Tutti i diritti riservati.</span>
-    </div>
-</footer>
+
+.footer {
+    background-color: #007bff;
+}
+
+.footer .text-muted {
+    color: #fff !important;
+}
 
 
