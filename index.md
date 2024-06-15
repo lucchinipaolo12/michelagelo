@@ -8,7 +8,7 @@ description: [Data base di Arco]
 
 [Link to another page](./another-page.html).
 
-![sito](https://www.google.it/?client=safari&channel=iphone_bm)
+[sito](https://www.google.it/?client=safari&channel=iphone_bm)
 
 There should be whitespace between paragraphs.
 
