@@ -1,9 +1,11 @@
 ---
 layout: default
+title: [Lavoro di Giusy]
+description: [Evento a firenze di michelangelo]
 ---
 
 ## Welcome to another page
 
-dfheijdidjd
+Evento michelangelo su basilica di san lorenzo firenze
 
 [back](./)
