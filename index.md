@@ -8,6 +8,8 @@ description: [Data base di Arco]
 
 [Link to another page](./another-page.html).
 
+![sito](https://www.google.it/?client=safari&channel=iphone_bm)
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
